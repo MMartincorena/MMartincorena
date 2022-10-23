@@ -18,8 +18,6 @@
   <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-<br>
-
 ## Back End
 
 <div style="display: inline_block">
@@ -28,8 +26,6 @@
   <img align="center" alt="Logo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-<br>
 
 ##
 
