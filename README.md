@@ -1,6 +1,6 @@
 # Martín Martincorena 
 
-## Programador Front End || Estudiante Data Analytic || Estudiante LTI - UTEC
+## Licenciado LTI - UTEC || Programador Front End  
 
 <div align="center">
   <a href="https://github.com/MMartincorena">
